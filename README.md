@@ -118,7 +118,7 @@ fifa-wc-2026-predictor/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/fifa-wc-2026-predictor.git
+https://github.com/yashvardhan0850-dotcom/fifa-world-cup-2026-predictor
 ```
 
 ---
